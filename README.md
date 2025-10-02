@@ -34,8 +34,8 @@ This project was developed using Google Colab.
 
 ### Prerequisites
 
-* Python 3.x
-* Jupyter Notebook / Google Colab
+* Python 3
+* Google Colab
 * Required libraries:
     * pandas
     * matplotlib
