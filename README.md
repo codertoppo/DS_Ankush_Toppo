@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-[cite_start]This project explores the relationship between cryptocurrency trader performance and overall market sentiment[cite: 11]. [cite_start]By analyzing historical trade data from Hyperliquid  [cite_start]alongside the daily Fear & Greed Index[cite: 6], the goal is to uncover hidden behavioral patterns and deliver actionable insights.
+This project explores the relationship between cryptocurrency trader performance and overall market sentiment. By analyzing historical trade data from Hyperliquid alongside the daily Fear & Greed Index, the goal is to uncover hidden behavioral patterns and deliver actionable insights.
 
-[cite_start]The full, detailed analysis, key findings, and final recommendations are available in the **`ds_report.pdf`** file.
+The full, detailed analysis, key findings, and final recommendations are available in the **`ds_report.pdf`** file.
 
 ## Repository Structure
 
