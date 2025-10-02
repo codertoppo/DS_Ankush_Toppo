@@ -9,7 +9,7 @@ The full, detailed analysis, key findings, and final recommendations are availab
 ## Repository Structure
 
 The project is organized according to the following structure:
-
+'''
 ds_/
 │
 ├── notebook_1.ipynb
@@ -26,6 +26,7 @@ ds_/
 ├── ds_report.pdf
 │
 └── README.md
+'''
 
 ## How to Run This Project
 
